@@ -1,0 +1,9 @@
+ShiftRegister	KEYWORD1
+set	KEYWORD2
+setAll	KEYWORD2
+get	KEYWORD2
+getAll	KEYWORD2
+setNumOfRegisters	KEYWORD2
+setRegisterType	KEYWORD2
+NumOfRegisters	LITERAL1
+RegisterType	LITERAL1
