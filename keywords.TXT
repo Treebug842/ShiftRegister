@@ -2,5 +2,3 @@ ShiftRegister74HC595	KEYWORD1
 set	KEYWORD2
 setAll	KEYWORD2
 setNumOfRegisters	KEYWORD2
-
-
